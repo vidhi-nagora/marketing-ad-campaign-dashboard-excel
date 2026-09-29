@@ -8,7 +8,7 @@ Interactive Excel dashboard analyzing 1,800 ad campaigns across Google Ads, Meta
 
 | Total Ad Spend | Total Revenue | Overall ROAS | Total Conversions | Overall CTR |
 |---|---|---|---|---|
-| $11.1M | $54.2M | 4.88x | 326,812 | 3.85% |
+| $11M | $54.2M | 4.88x | 326,812 | 3.85% |
 
 ## Business questions
 
